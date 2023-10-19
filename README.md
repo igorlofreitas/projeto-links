@@ -10,11 +10,11 @@ Página de apresentação de links do desenvolvedor.
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-  
+
 <br>
 
 <p align="center">
-  <img alt="Pagina inicial" src="/src/gitHub/preview.PNG"" width="100%">
+  <img alt="Pagina inicial" src="/src/gitHub/Projeto-links.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
