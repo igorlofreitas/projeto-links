@@ -14,7 +14,7 @@ Página de apresentação de links do desenvolvedor.
 <br>
 
 <p align="center">
-  <img alt="Pagina inicial" src="/src/gitHub/Projeto-links.png" width="100%">
+  <img alt="Pagina inicial" src="./src/gitHub/Projeto-links.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
